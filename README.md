@@ -125,6 +125,27 @@ docker-compose down
 
 ## 7. Lampiran Bukti Validasi Pengujian Terintegrasi
 
-1. **Tabel Mahasiswa (Web):** [Screenshot halaman utama CRUD web]
-2. **Database MySQL:** [Screenshot phpMyAdmin yang menampilkan tabel mahasiswas]
-3. **MinIO Object Storage:** [Screenshot Dashboard MinIO berisi dokumen di dalam akademik-bucket]
+Berikut adalah dokumentasi visual dari sistem yang telah dibangun:
+
+### 7.1. Tampilan Aplikasi & Database
+![Screenshot 001](public/Images/001.jpeg)
+![Screenshot 002](public/Images/002.jpeg)
+![Screenshot 003](public/Images/003.jpeg)
+![Screenshot 004](public/Images/004.jpeg)
+![Screenshot 005](public/Images/005.jpeg)
+![Screenshot 006](public/Images/006.jpeg)
+![Screenshot 007](public/Images/007.jpeg)
+![Screenshot 008](public/Images/008.jpeg)
+![Screenshot 009](public/Images/009.jpeg)
+
+### 7.2. Integrasi Storage & Pengujian Lanjutan
+![Screenshot 010](public/Images/010.jpeg)
+![Screenshot 011](public/Images/011.jpeg)
+![Screenshot 012](public/Images/012.jpeg)
+![Screenshot 013](public/Images/013.jpeg)
+![Screenshot 014](public/Images/014.jpeg)
+![Screenshot 015](public/Images/015.jpeg)
+![Screenshot 016](public/Images/016.jpeg)
+![Screenshot 017](public/Images/017.jpeg)
+![Screenshot 018](public/Images/018.jpeg)
+
