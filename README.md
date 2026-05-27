@@ -1,8 +1,11 @@
 # Sistem Informasi Academic - Nusantara Tech (ADSIS - CB2)
 
 **Oleh:** Kelompok 2
+
 **- Daniel Smite Manalu - 245150701111018**
+
 **- Rakhmanullah Asyhari - 245150700111019**
+
 **- Muhammad Iqbal Dhyty Pratama - 245150700111017**
 
 **Dosen Pengampu: Hariz Farisi, S.Kom., M.T.**
