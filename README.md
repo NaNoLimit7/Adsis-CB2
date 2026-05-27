@@ -2,7 +2,7 @@
 
 **Oleh:** Kelompok 2
 
-**Mata Kuliah:** Administrasi Sistem  
+**Mata Kuliah:** Administrasi Sistem
 
 **Studi Kasus:** Standardisasi Infrastruktur menggunakan Orkestrasi Docker
 
@@ -148,4 +148,3 @@ Berikut adalah dokumentasi visual dari sistem yang telah dibangun:
 ![Screenshot 016](public/Images/016.jpeg)
 ![Screenshot 017](public/Images/017.jpeg)
 ![Screenshot 018](public/Images/018.jpeg)
-
